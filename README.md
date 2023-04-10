@@ -27,6 +27,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 ## Directories
 
 * Kaleidoscope - https://www.kaleidoscopexcp.com/stamps/
+* RareStamp - https://www.rarestamp.xyz/
 
 ## Mint tools
 
