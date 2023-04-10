@@ -22,7 +22,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 ## Communities
 
 * BitcoinStamps (Stampchain) -  https://t.me/BitcoinStamps
-* 
+* Stampcord - https://discord.gg/HAhApVD2wW
 
 ## Directories
 
