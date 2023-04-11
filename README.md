@@ -42,6 +42,7 @@ This repo was created to have a nice overview of stamps stuff out there. Lists a
 
 ## Early projects
 
-| Name | First inscription | Last inscription | Supply | Link |
+| Name | First stamp | Last stamp | Supply | Link |
 |---|---|---|---|---|
+| The Pixel Gods | 178 | ? | 90 | https://twitter.com/the_pixel_gods |
 | StamPunks | 4 | ? | 10000 | https://twitter.com/Stam_Punks |
