@@ -16,6 +16,7 @@ This repo was created to have a nice overview of stamps stuff out there. Lists a
 
 ## Exchanges / Marketplaces
 
+* RareStamp - https://www.rarestamp.xyz/
 * Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=stamps
 * Stmps - https://stmps.xyz/
 
