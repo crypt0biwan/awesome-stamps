@@ -40,6 +40,13 @@ This repo was created to have a nice overview of stamps stuff out there. Lists a
 * JSON for all stamps - https://stampchain.io/stamp.json
 
 
+## Art collections
+
+| Name | First stamp | Last stamp | Supply | Link |
+|---|---|---|---|---|
+| Pixel Stamps | 2182 | 2319 | 30 | https://crypt0biwan.github.io/PixelStamps/ |
+| The Historic Stamps Collection | 880 | 3365 | 400 (12 different ones) | https://twitter.com/nishseq/status/1642527396510461954 |
+
 ## Early projects
 
 | Name | First stamp | Last stamp | Supply | Link |
