@@ -35,6 +35,7 @@ This repo was created to have a nice overview of stamps stuff out there. Lists a
 * StampChain - https://stampchain.io/mint
 * CounterWallet - https://wallet.counterwallet.io/
 * Freewallet - https://freewallet.io/
+* RareStamp - https://www.rarestamp.xyz/minting
 * StampsBot - https://stampsbot.com/
 
 ## SRC20 tools
