@@ -29,6 +29,7 @@ This repo was created to have a nice overview of stamps stuff out there. Lists a
 
 * Kaleidoscope - https://www.kaleidoscopexcp.com/stamps/
 * RareStamp - https://www.rarestamp.xyz/
+* Swooty - https://stamps.swooty.dev/bitcoin
 
 ## Mint tools
 
